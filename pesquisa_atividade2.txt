@@ -1,0 +1,9 @@
+Os arquivos MD são relativos a uma extensão criada usando a linguagem Markdown. Portanto, os arquivos de texto criados com a linguagem Markdown têm a extensão .MD ou .MARKDOWN.	
+A linguagem Markdown foi inventada em 2004 por John Gruber e Aaron Swartz porque eles precisavam de uma maneira mais fácil de escrever e ler o formato de texto simples, bem como convertê-lo para HTML ou XHTML. O objetivo principal era a legibilidade; a linguagem é bem legível se você ignorar as tags e as instruções de formatação adicionadas. Desde sua criação, muitos usuários re-implementaram o Markdown ao lado de outras linguagens de programação.
+Como abrir um arquivo MD:
+Considerando que são legíveis, você pode ter que abrir arquivos MD a qualquer momento. Isso significa que você tem que aprender a abrir arquivos MD. A extensão MD é usada para diferentes tipos de arquivos, então os aplicativos para abrir esses arquivos podem variar. Ainda assim, o processo para abrir arquivos MD é semelhante ao seguinte:
+Clique duas vezes no arquivo .md.
+Se a associação já estiver definida, o respectivo aplicativo abrirá imediatamente. Caso contrário, você terá que comprar ou baixar um programa adequado.
+Se, por outro lado, você já tem o aplicativo adequado mas ainda não foi associado com os arquivos MD, é possível configurar o Windows ou Mac para usar a ferramenta certa.
+Eventualmente o seu arquivo MD será aberto com sucesso.
+Os aplicativos seguintes são indicados para abrir e ler arquivos MD: Apple TextEdit,Bloco de Notas,Notepad2.

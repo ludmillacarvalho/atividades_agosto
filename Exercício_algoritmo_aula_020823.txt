@@ -1,0 +1,32 @@
+Exercício aula 02/08/23
+
+Algoritmo 1.
+
+1.A= 1
+2.B= 2
+3.O resultado é A+B.
+
+Algoritmo 2.
+
+1. Definir gênero da pessoa
+2. Para feminino = F.
+3  Para masculino = M.
+
+Algoritmo 3.
+
+1.Verificar se a energia está desligada
+2.Retirar a lâmpada do bocal
+3.Instalar lâmpada nova
+4.Religar energia
+
+Algoritmo 4.
+
+Fazer uma salada de fruta
+
+1.Lavar as frutas
+2.Descascar as frutas
+3.Cortar as frutas
+4.Guardar em um recipiente limpo
+
+
+
